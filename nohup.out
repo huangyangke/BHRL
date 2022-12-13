@@ -18554,6 +18554,7 @@ INFO:mmdet:Epoch [11][160/7698]	lr: 1.000e-04, eta: 2 days, 9:28:21, time: 2.316
 INFO:mmdet:Epoch [11][180/7698]	lr: 1.000e-04, eta: 2 days, 9:26:58, time: 2.409, data_time: 0.046, memory: 25253, loss_rpn_cls: 0.0076, loss_rpn_bbox: 0.0082, s0.loss_cls: 0.1843, s0.acc: 97.8430, s0.loss_bbox: 0.0621, loss: 0.2623
 2022-12-13 09:29:27,873 - mmdet - INFO - Epoch [11][200/7698]	lr: 1.000e-04, eta: 2 days, 9:25:38, time: 2.435, data_time: 0.045, memory: 25253, loss_rpn_cls: 0.0083, loss_rpn_bbox: 0.0093, s0.loss_cls: 0.1814, s0.acc: 97.8548, s0.loss_bbox: 0.0619, loss: 0.2610
 INFO:mmdet:Epoch [11][200/7698]	lr: 1.000e-04, eta: 2 days, 9:25:38, time: 2.435, data_time: 0.045, memory: 25253, loss_rpn_cls: 0.0083, loss_rpn_bbox: 0.0093, s0.loss_cls: 0.1814, s0.acc: 97.8548, s0.loss_bbox: 0.0619, loss: 0.2610
+<<<<<<< HEAD
 2022-12-13 09:31:35,856 - mmdet - INFO - Epoch [11][220/7698]	lr: 1.000e-04, eta: 2 days, 9:30:46, time: 6.401, data_time: 4.516, memory: 25253, loss_rpn_cls: 0.0103, loss_rpn_bbox: 0.0093, s0.loss_cls: 0.1970, s0.acc: 97.8210, s0.loss_bbox: 0.0652, loss: 0.2819
 INFO:mmdet:Epoch [11][220/7698]	lr: 1.000e-04, eta: 2 days, 9:30:46, time: 6.401, data_time: 4.516, memory: 25253, loss_rpn_cls: 0.0103, loss_rpn_bbox: 0.0093, s0.loss_cls: 0.1970, s0.acc: 97.8210, s0.loss_bbox: 0.0652, loss: 0.2819
 2022-12-13 09:32:19,344 - mmdet - INFO - Epoch [11][240/7698]	lr: 1.000e-04, eta: 2 days, 9:29:00, time: 2.174, data_time: 0.029, memory: 25253, loss_rpn_cls: 0.0094, loss_rpn_bbox: 0.0089, s0.loss_cls: 0.1868, s0.acc: 97.7954, s0.loss_bbox: 0.0628, loss: 0.2678
@@ -18620,3 +18621,5 @@ INFO:mmdet:Epoch [11][820/7698]	lr: 1.000e-04, eta: 2 days, 9:05:17, time: 2.421
 INFO:mmdet:Epoch [11][840/7698]	lr: 1.000e-04, eta: 2 days, 9:03:58, time: 2.439, data_time: 0.044, memory: 25253, loss_rpn_cls: 0.0100, loss_rpn_bbox: 0.0099, s0.loss_cls: 0.1872, s0.acc: 97.7681, s0.loss_bbox: 0.0672, loss: 0.2743
 2022-12-13 10:00:38,746 - mmdet - INFO - Epoch [11][860/7698]	lr: 1.000e-04, eta: 2 days, 9:02:45, time: 2.511, data_time: 0.049, memory: 25253, loss_rpn_cls: 0.0067, loss_rpn_bbox: 0.0076, s0.loss_cls: 0.1787, s0.acc: 97.9000, s0.loss_bbox: 0.0616, loss: 0.2546
 INFO:mmdet:Epoch [11][860/7698]	lr: 1.000e-04, eta: 2 days, 9:02:45, time: 2.511, data_time: 0.049, memory: 25253, loss_rpn_cls: 0.0067, loss_rpn_bbox: 0.0076, s0.loss_cls: 0.1787, s0.acc: 97.9000, s0.loss_bbox: 0.0616, loss: 0.2546
+=======
+>>>>>>> c6b70c40179e097ae7fe3dac1d5656a8396d03e1
