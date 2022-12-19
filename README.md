@@ -5,6 +5,15 @@ This repository is an official implementation of the CVPR 2022 paper "Balanced a
 ## 训练集地址
 https://github.com/Wangjing1551/LogoDet-3K-Dataset<br/>
 https://hangsu0730.github.io/qmul-openlogo/<br/>
+https://github.com/hq03/FoodLogoDet-1500-Dataset<br/>
+https://github.com/InputBlackBoxOutput/logo-images-dataset<br/>
+https://github.com/mubastan/osld<br/>
+
+# 类似项目
+https://github.com/Heldenkombinat/Logodetect<br/>
+
+# 视频数据标注借鉴
+https://github.com/SA-PKU/sports-video-logo-dataset<br/>
 
 ## 模型训练
 ```shell
