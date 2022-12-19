@@ -9,10 +9,10 @@ https://github.com/hq03/FoodLogoDet-1500-Dataset<br/>
 https://github.com/InputBlackBoxOutput/logo-images-dataset<br/>
 https://github.com/mubastan/osld<br/>
 
-# 类似项目
+## 类似项目
 https://github.com/Heldenkombinat/Logodetect<br/>
 
-# 视频数据标注借鉴
+## 视频数据标注借鉴
 https://github.com/SA-PKU/sports-video-logo-dataset<br/>
 
 ## 模型训练
