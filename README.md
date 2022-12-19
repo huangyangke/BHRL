@@ -9,6 +9,9 @@ https://github.com/hq03/FoodLogoDet-1500-Dataset<br/>
 https://github.com/InputBlackBoxOutput/logo-images-dataset<br/>
 https://github.com/mubastan/osld<br/>
 https://github.com/neouyghur/METU-TRADEMARK-DATASET<br/>
+https://tianchi.aliyun.com/competition/entrance/531948/introduction<br/>
+https://tianchi.aliyun.com/dataset/130462<br>
+
 ## 类似项目
 https://github.com/Heldenkombinat/Logodetect<br/>
 
