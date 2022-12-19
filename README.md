@@ -8,7 +8,7 @@ https://hangsu0730.github.io/qmul-openlogo/<br/>
 https://github.com/hq03/FoodLogoDet-1500-Dataset<br/>
 https://github.com/InputBlackBoxOutput/logo-images-dataset<br/>
 https://github.com/mubastan/osld<br/>
-
+https://github.com/neouyghur/METU-TRADEMARK-DATASET<br/>
 ## 类似项目
 https://github.com/Heldenkombinat/Logodetect<br/>
 
